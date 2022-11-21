@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 18
+  controlID: 26
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 85
+  controlID: 49
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -191,8 +191,8 @@ MonoBehaviour:
     y: 0
     width: 1297
     height: 376
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 149
+  controlID: 57
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -269,8 +269,8 @@ MonoBehaviour:
     y: 0
     width: 296
     height: 417
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -481,7 +481,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Challenge 3/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
@@ -495,7 +496,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 585e0000
     m_LastClickedID: 24152
-    m_ExpandedIDs: 000000000e5b0000925d0000945d0000965d0000985d00009a5d00009c5d00009e5d0000a05d0000a25d0000a45d0000
+    m_ExpandedIDs: 00000000285b0000ae5d0000b05d0000b25d0000b45d0000b65d0000b85d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -523,21 +524,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000000e5b0000925d0000945d0000965d00009c5d0000485e0000fc620000
+    m_ExpandedIDs: ffffffff00000000285b0000ae5d0000b65d0000b85d0000f65d0000fc5e0000005f0000085f00000a5f0000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: FX_DirtSplatter
-      m_OriginalName: FX_DirtSplatter
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 24130
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 12}
     m_SearchString: 
@@ -929,9 +930,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 15.236356, y: 7.7201138, z: -2.690299}
+    m_Target: {x: 11.750969, y: 21.05961, z: -9.691015}
     speed: 2
-    m_Value: {x: 15.236356, y: 7.7201138, z: -2.690299}
+    m_Value: {x: 11.750969, y: 21.05961, z: -9.691015}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -978,13 +979,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.39812905, y: -0.010452867, z: 0.0045419224, w: 0.91726965}
+    m_Target: {x: -0.20093629, y: -0.042008374, z: -0.008625228, w: 0.97868013}
     speed: 2
-    m_Value: {x: 0.39812505, y: -0.010452762, z: 0.0045418767, w: 0.91726047}
+    m_Value: {x: -0.20093334, y: -0.04200776, z: -0.008625101, w: 0.97866577}
   m_Size:
-    m_Target: 10.487568
+    m_Target: 12.124355
     speed: 2
-    m_Value: 10.487568
+    m_Value: 12.124355
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1040,20 +1041,20 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: b2ccffff06cdffffd6ceffff36fbffff
+      m_SelectedIDs: 0c600000
+      m_LastClickedID: 24588
+      m_ExpandedIDs: 6495ffff0ef1ffff70f1ffff88f5ffff80f6ffff36fbffff0c600000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: FX_DirtSplatter
-        m_OriginalName: FX_DirtSplatter
+        m_Name: Main Camera
+        m_OriginalName: Main Camera
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -5446
+        m_UserData: 24544
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
