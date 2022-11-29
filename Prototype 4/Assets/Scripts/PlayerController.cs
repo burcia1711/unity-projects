@@ -28,12 +28,13 @@ public class PlayerController : MonoBehaviour
     
     private void OnTriggerEnter(Collider other)
     {
-        if(other.CompareTag("Powerup"))
+        if(other.gameObject.CompareTag("Powerup"))
         {
-            hasPowerup = true;
             Destroy(other.gameObject);
+            hasPowerup = true;
+            powerupIndicator.SetActive(true);
             StartCoroutine(PowerUpCountdownRoutine());
-            powerupIndicator.gameObject.SetActive(true);
+           
         }
     }
 
