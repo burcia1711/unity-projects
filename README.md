@@ -2,7 +2,9 @@
 [Create with Code](https://learn.unity.com/course/create-with-code?uv=2020.3) course from Unity Learn.
 
 ------------------------------------------------
-### Unit 1 - Player Controller
+### <p align="center"> Unit 1 - Player Controller </p>
+<p align="center"> <img src=images/u1intro.jpg> </p> 
+
 #### Lesson 1 - Start Your 3D Engines
 #### Lesson 2 - Pedal to the Metal
 #### Lesson 3 - High Speed Chase
@@ -11,7 +13,9 @@
 #### Lab 1 - Project Design Document
 
 ----------------------------------------------
-### Unit 2 - Basic Gameplay
+### <p align="center"> Unit 2 - Basic Gameplay </p>
+<p align="center"> <img src=images/u2intro.jpg> </p> 
+
 #### Lesson 1 - Player Positioning
 #### Lesson 2 - Food Flight
 #### Lesson 3 - Random Animal Stampede
@@ -20,7 +24,9 @@
 #### Lab 2 - New Project with Primitives
 
 ----------------------------------------------
-### Unit 3 - Sound and Effects
+### <p align="center"> Unit 3 - Sound and Effects </p>
+<p align="center"> <img src=images/u3intro.jpg> </p> 
+
 #### Lesson 1 - Jump Force
 #### Lesson 2 - Make the World Whiz By
 #### Lesson 3 - Don't Just Stand There
@@ -29,7 +35,9 @@
 #### Lab 3 - Player Control
 
 ----------------------------------------------
-### Unit 4 -  Gameplay Mechanics
+### <p align="center"> Unit 4 -  Gameplay Mechanics </p>
+<p align="center"> <img src=images/u4intro.jpg> </p> 
+
 #### Lesson 1 - Watch Where You're Going
 #### Lesson 2 - Follow the Player
 #### Lesson 3 - PowerUp and CountDown
@@ -37,7 +45,9 @@
 #### Challenge 4 - Soccer Scripting
 #### Lab 4 - Basic Gameplay
 ----------------------------------------------
-### Unit 5 - User Interface
+### <p align="center"> Unit 5 - User Interface </p>
+<p align="center"> <img src=images/u5intro.jpg> </p> 
+
 #### Lesson 1 - Clicky Mouse
 #### Lesson 2 - Keeping Score
 #### Lesson 3 - Game Over
