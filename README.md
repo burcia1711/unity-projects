@@ -6,11 +6,22 @@
 <p align="center"> <img src=images/u1intro.jpg> </p> 
 
 #### Lesson 1 - Start Your 3D Engines
+<img src=images/u1l1.jpg>
+
 #### Lesson 2 - Pedal to the Metal
+<img src=images/u1l2.jpg>
+
 #### Lesson 3 - High Speed Chase
+<img src=images/u1l3.jpg>
+
 #### Lesson 4 - Step into the Driver's Seat
+<img src=images/u1l4.jpg>
+
 #### Challenge 1 - Plane Programming
+<img src=images/u1l5.jpg>
+
 #### Lab 1 - Project Design Document
+<img src=images/u1lab.jpg>
 
 ----------------------------------------------
 ### <p align="center"> Unit 2 - Basic Gameplay </p>
