@@ -28,11 +28,22 @@
 <p align="center"> <img src=images/u2intro.jpg> </p> 
 
 #### Lesson 1 - Player Positioning
+<img src=images/u2l1.jpg>
+
 #### Lesson 2 - Food Flight
+<img src=images/u2l2.jpg>
+
 #### Lesson 3 - Random Animal Stampede
+<img src=images/u2l3.jpg>
+
 #### Lesson 4 - Collision Decisions
+<img src=images/u2l4.jpg>
+
 #### Challenge 2 - Play Fetch
+<img src=images/u2l5.jpg>
+
 #### Lab 2 - New Project with Primitives
+<img src=images/u2lab.jpg>
 
 ----------------------------------------------
 ### <p align="center"> Unit 3 - Sound and Effects </p>
