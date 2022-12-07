@@ -50,29 +50,63 @@
 <p align="center"> <img src=images/u3intro.jpg> </p> 
 
 #### Lesson 1 - Jump Force
+<img src=images/u3l1.jpg>
+
 #### Lesson 2 - Make the World Whiz By
+<img src=images/u3l2.jpg>
+
 #### Lesson 3 - Don't Just Stand There
+<img src=images/u3l3.jpg>
+
 #### Lesson 4 - Particles and Sound Effects
+<img src=images/u3l4.jpg>
+
 #### Challenge 3 - Balloons, Bombs & Booleans
+<img src=images/u3l5.jpg>
+
 #### Lab 3 - Player Control
+<img src=images/u3lab.jpg>
 
 ----------------------------------------------
 ### <p align="center"> Unit 4 -  Gameplay Mechanics </p>
 <p align="center"> <img src=images/u4intro.jpg> </p> 
 
 #### Lesson 1 - Watch Where You're Going
+<img src=images/u4l1.jpg>
+
 #### Lesson 2 - Follow the Player
+<img src=images/u4l2.jpg>
+
 #### Lesson 3 - PowerUp and CountDown
+<img src=images/u4l3.jpg>
+
 #### Lesson 4 - For-Loops For Waves
+<img src=images/u4l4.jpg>
+
 #### Challenge 4 - Soccer Scripting
+<img src=images/u4l5.jpg>
+
 #### Lab 4 - Basic Gameplay
+<img src=images/u4lab.jpg>
+
 ----------------------------------------------
 ### <p align="center"> Unit 5 - User Interface </p>
 <p align="center"> <img src=images/u5intro.jpg> </p> 
 
 #### Lesson 1 - Clicky Mouse
+<img src=images/u5l1.jpg>
+
 #### Lesson 2 - Keeping Score
+<img src=images/u5l2.jpg>
+
 #### Lesson 3 - Game Over
+<img src=images/u5l3.jpg>
+
 #### Lesson 4 - What's the Difficulty?
+<img src=images/u5l4.jpg>
+
 #### Challenge 5 - Whack-a-Food
+<img src=images/u5l5.jpg>
+
 #### Lab 5 - Swap out your Assets
+<img src=images/u5lab.jpg>
