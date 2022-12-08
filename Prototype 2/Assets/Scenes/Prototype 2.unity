@@ -227,6 +227,7 @@ GameObject:
   m_Component:
   - component: {fileID: 300289782}
   - component: {fileID: 300289783}
+  - component: {fileID: 300289784}
   m_Layer: 0
   m_Name: SpawnManager
   m_TagString: Untagged
@@ -265,6 +266,21 @@ MonoBehaviour:
   - {fileID: 8912791443294876009, guid: 15077fb1c24e97c42bb28c179dac1c57, type: 3}
   - {fileID: 172189967543383064, guid: 752e5c9d4ecb8914f90604a9d4e4685f, type: 3}
   - {fileID: 3482943347439203115, guid: 003bf35dc8a4c2b4eacea408a63ea3c5, type: 3}
+--- !u!114 &300289784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 300289781}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45c0e1f24e2ce4a5b9bf1f3a7499cd45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pooledObjects: []
+  objectToPool: {fileID: 1934965285315272624, guid: 7c1049ed70192b942a0f86b715ef69d2, type: 3}
+  amountToPool: 20
 --- !u!1 &425805626
 GameObject:
   m_ObjectHideFlags: 0
@@ -644,6 +660,7 @@ GameObject:
   m_Component:
   - component: {fileID: 858574015}
   - component: {fileID: 858574014}
+  - component: {fileID: 858574016}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -683,6 +700,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &858574016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 858574013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e917c52987daa41af6a0305d9813c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectilePrefab: {fileID: 0}
 --- !u!1 &992285705
 GameObject:
   m_ObjectHideFlags: 0
