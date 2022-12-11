@@ -110,3 +110,12 @@
 
 #### Lab 5 - Swap out your Assets
 <img src=images/u5lab.jpg>
+
+----------------------------------------------
+### <p align="center"> Next Steps </p>
+
+#### Lesson 1 - Project Optimization
+#### Lesson 2 - Research and Troubleshooting
+#### Lesson 3 - Sharing Projects
+#### ECS Survival Guide
+
